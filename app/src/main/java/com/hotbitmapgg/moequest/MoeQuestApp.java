@@ -15,7 +15,7 @@ import io.realm.RealmMigration;
  * Created by hcc on 16/6/25 12:07
  * 100332338@qq.com
  * <p/>
- * 萌妹子Appycy
+ * 萌妹子App
  */
 public class MoeQuestApp extends Application
 {
